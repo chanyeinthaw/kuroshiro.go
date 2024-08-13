@@ -3,7 +3,7 @@
 
 # kuroshiro.go
 
-[![License](https://img.shields.io/github/license/lassjs/lass.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/lassjs/lass.svg)](LICENSE) [![Go Reference](https://pkg.go.dev/badge/github.com/chanyeinthaw/kuroshiro.go.svg)](https://pkg.go.dev/github.com/chanyeinthaw/kuroshiro.go)
 
 kuroshiro.go is a Golang port of [kuroshiro](https://github.com/hexenq/kuroshiro), a Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
 
