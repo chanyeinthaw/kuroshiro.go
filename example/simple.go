@@ -4,13 +4,12 @@ import (
 	"fmt"
 
 	"github.com/chanyeinthaw/kuroshiro.go"
-	"github.com/chanyeinthaw/kuroshiro.go/analyzer"
 )
 
 const EXAMPLE_TEXT = "感じ取れたら手を繋ごう、重なるのは人生のライン and レミリア最高！"
 
 func main() {
-	analyzer, err := analyzer.NewMecab()
+	analyzer, err := kuroshiro.NewMecab()
 	defer analyzer.Destroy()
 	if err != nil {
 		panic(err)
