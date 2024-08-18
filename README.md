@@ -1,3 +1,7 @@
+> You’re dabbling in Go and poking around with Japanese languages like a tourist playing with chopsticks—cute
+>
+> — [GitHub Roaster](https://github-roast.pages.dev/)
+
 
 ![kuroshiro](https://kuroshiro.org/kuroshiro.png)
 
